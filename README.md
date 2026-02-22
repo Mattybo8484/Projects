@@ -1,24 +1,16 @@
-# Projects
 
-# Creating ALerts Lab
+# Zero Trust Identity Lab
 
 ## Objective
-
-Create and configure custom Splunk alerts to monitor specific events in real-time, enhancing skills in data monitoring and analysis.
-
-### Skills learned 
-
- - Deployed continuous monitoring technoliges
- - Performing log file analysis
- - Performing system activity analysis
+- Simulate a company and implement modern identity security controls with Active Directory and Cloud IAM
    
 ### Tools Used
-
-- Splunk
-- ubuntu
+- Windows Server (Active Directory)
+- Windows 10 client VM
+- Microsoft Entra ID
 
 ## Steps
 
-1st - Open terminal and run Splunk using the command: sudo /opt/splunk/bin/splunk start
+1st -
 
 2nd - 
