@@ -1,5 +1,5 @@
 
-# Alert Investigations 
+# Alert Investigation 
 
 
 ## EventID 304 	SOC326 - Impersonating Domain MX Record Change Detected
