@@ -15,7 +15,7 @@ Found an email from a source that appears to be trusted giving a link for Mateo@
 Step 3: Run the link through virus total to see if it is marked as malicious by any vendors.
 
 <img width="1900" height="963" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/b65ab8eb-09d2-4b77-9eb9-b946faec7da5" />
-Here we can see that the link is not listed as a known malicious source but sense this is an alert for impersonating a Domain MX Record change we hace to assure that the sender is who they say they are. So next 
+Here we can see that the link is not listed as a known malicious source but sense this is an alert for impersonating a Domain MX Record change we have to assure that the sender is who they say they are. So next 
 we run the IP address of the sender through Virustotal.
 <img width="1903" height="934" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/85e6a970-5a5a-4982-9518-47b38de89740" />
 Here we can see that the IP address is marked as malicious.
