@@ -2,3 +2,6 @@
 
 Step 1: Review given info from the alert.
 
+Step 2: investigate Monicas email traffic. 
+
+Here we can see 3 emails for one time passwords requests initiated my Multi-Factor Authentication from a Vpn URL located in Hanoi, Ha Noi.
