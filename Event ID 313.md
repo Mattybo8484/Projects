@@ -1,3 +1,0 @@
-## 	SOC335 - CVE-2024-49138 Exploitation Detected
-
-
